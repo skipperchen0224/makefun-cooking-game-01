@@ -1,5 +1,9 @@
 # Sizzle Street Kitchen — 街角小馆后厨
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/skipperchen0224/makefun-cooking-game-01/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/skipperchen0224/makefun-cooking-game-01/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 经营一家 4 个座位的小馆：客人入座点菜，你在后厨切菜、煎炸、煮面，
 赶在客人失去耐心之前把菜端上去。每天达到营业额目标就进升级商店，
 开新的一天、解锁新菜；营业额不达标或声誉归零就关店。
